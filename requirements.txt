@@ -5,3 +5,5 @@ scikit-learn==0.23.2
 matplotlib
 seaborn
 tabulate
+yfinance
+finta
