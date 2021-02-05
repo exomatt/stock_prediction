@@ -7,3 +7,4 @@ seaborn
 tabulate
 yfinance
 finta
+tensorflow==2.4
