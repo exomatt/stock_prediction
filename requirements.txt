@@ -8,3 +8,6 @@ tabulate
 yfinance
 finta
 tensorflow==2.4
+sweetviz
+xgboost
+ta
