@@ -1,0 +1,5 @@
+Classifier type,Accuracy
+GradientBoostingClassifier 1,0.78125
+GradientBoostingClassifier 2,0.75
+GradientBoostingClassifier 3,0.71875
+GradientBoostingClassifier 4,0.796875
