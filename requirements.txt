@@ -11,3 +11,4 @@ tensorflow==2.4
 sweetviz
 xgboost
 ta
+graphviz
