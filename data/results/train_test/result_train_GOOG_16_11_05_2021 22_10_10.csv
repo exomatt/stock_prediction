@@ -1,0 +1,26 @@
+DecisionTreeClassifier 1,0.355674709562109
+DecisionTreeClassifier 2,0.32171581769436997
+DecisionTreeClassifier 3,0.28239499553172476
+RandomForestClassifier 4,0.37980339588918677
+RandomForestClassifier 5,0.3672922252010724
+GradientBoostingClassifier 1,0.3708668453976765
+GradientBoostingClassifier 2,0.3494191242180518
+GradientBoostingClassifier 1S,0.34405719392314565
+GradientBoostingClassifier 2S,0.36282394995531725
+GradientBoostingClassifier 3S,0.3521000893655049
+GradientBoostingClassifier 4S,0.3521000893655049
+XGBClassifier,0.36550491510277033
+XGBRFClassifier,0.36550491510277033
+DecisionTreeClassifier 1,0.355674709562109
+DecisionTreeClassifier 2,0.32171581769436997
+DecisionTreeClassifier 3,0.28239499553172476
+RandomForestClassifier 4,0.37980339588918677
+RandomForestClassifier 5,0.3672922252010724
+GradientBoostingClassifier 1,0.3708668453976765
+GradientBoostingClassifier 2,0.3494191242180518
+GradientBoostingClassifier 1S,0.34405719392314565
+GradientBoostingClassifier 2S,0.36282394995531725
+GradientBoostingClassifier 3S,0.3521000893655049
+GradientBoostingClassifier 4S,0.3521000893655049
+XGBClassifier,0.36550491510277033
+XGBRFClassifier,0.36550491510277033

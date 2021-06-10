@@ -1,0 +1,14 @@
+Classifier type,Accuracy
+DecisionTreeClassifier 1,0.3359375
+DecisionTreeClassifier 2,0.296875
+DecisionTreeClassifier 3,0.3828125
+RandomForestClassifier 4,0.328125
+RandomForestClassifier 5,0.375
+GradientBoostingClassifier 1,0.3203125
+GradientBoostingClassifier 2,0.3984375
+GradientBoostingClassifier 1,0.359375
+GradientBoostingClassifier 2,0.3515625
+GradientBoostingClassifier 3,0.3046875
+GradientBoostingClassifier 4,0.3671875
+XGBClassifier,0.4140625
+XGBRFClassifier,0.390625

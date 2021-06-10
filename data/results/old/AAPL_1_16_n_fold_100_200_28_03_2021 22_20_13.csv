@@ -1,0 +1,8 @@
+Classifier type
+DecisionTreeClassifier 1
+DecisionTreeClassifier 2
+DecisionTreeClassifier 3
+RandomForestClassifier 4
+RandomForestClassifier 5
+GradientBoostingClassifier 1
+GradientBoostingClassifier 2
