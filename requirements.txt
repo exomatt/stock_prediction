@@ -5,7 +5,7 @@ scikit-learn==0.23.2
 matplotlib
 seaborn
 tabulate
-yfinance
+yfinance==0.1.62
 finta
 tensorflow==2.4
 sweetviz
