@@ -1,0 +1,16 @@
+DecisionTreeClassifier 1,0.8947238354133201
+DecisionTreeClassifier 2,1.0
+DecisionTreeClassifier 3,0.6619300630174224
+RandomForestClassifier 1,0.47139503274434696
+RandomForestClassifier 2,0.46880019770171755
+RandomForestClassifier 3,0.9782528110712961
+GradientBoostingClassifier 1,0.6217719016433956
+GradientBoostingClassifier 2,1.0
+XGBRFClassifier 1,0.45459038675398494
+XGBRFClassifier 2,0.6326454961077475
+XGBClassifier 1,0.9944396391943655
+XGBClassifier 2,0.9998764364265414
+SGradientBoostingClassifier 1,0.5835907574447053
+SXGBClassifier 1,0.9224020758680341
+SXGBClassifier 2,0.9723217595452861
+SXGBClassifier 3,1.0
